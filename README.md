@@ -10,5 +10,5 @@
 
 - I investigated why the average movie durations went down over a period of time.
 
-- This shows my skills of Exploratory Data Analysis, Data Visualization, and Data Storytelling.
+- This showed my skills of Exploratory Data Analysis, Data Visualization, and Data Storytelling.
 
