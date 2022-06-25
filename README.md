@@ -1,2 +1,10 @@
 # Hamza_Portfolio
-This GitHub repository contains a collection of data science projects that I have completed. The projects are organized into folders by topic, and each project has its own directory. Within each project directory, you will find the code, data, and any other necessary files. There is also a README file that provides an overview of the project. These projects showcase my skills in data wrangling, exploratory data analysis, data visualization and machine learning. In particular, they demonstrate my ability to take raw data and turn it into insights that can be used to solve real-world problems. I hope that these projects will give you a better understanding of my skills and experience as a data scientist. Thank you for taking the time to view my portfolio!
+
+# Investigating Netflix Movies and Guest Stars in The Office
+
+- Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
+
+- Given the large number of movies and series available on the platform, it is a perfect opportunity to flex the data manipulation skills and dive into the entertainment industry.
+
+- As evidence of this, I've have collected a data. For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
+
