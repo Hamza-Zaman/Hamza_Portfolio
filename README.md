@@ -2,9 +2,7 @@
 
 # [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/Hamza-Zaman/Hamza_Portfolio) 
 
-
-![Copy of Let's Connect (400 × 400 px)](https://user-images.githubusercontent.com/23433652/175810921-12bbb4b2-d7ad-46ee-80a3-dcf76316f35e.png)
-
+![Copy of Let's Connect (400 × 400 px) (640 × 420 px)](https://user-images.githubusercontent.com/23433652/175811080-5f447c5c-24e2-4ffb-8a27-87d3609e9863.png)
 
 
 - Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
