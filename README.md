@@ -2,7 +2,8 @@
 
 # [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/Hamza-Zaman/Hamza_Portfolio) 
 
-![Copy of Let's Connect (250 × 250 px)](https://user-images.githubusercontent.com/23433652/175810854-bede2858-46f1-46e3-a2de-6506eb475b0e.png)
+
+![Copy of Let's Connect (400 × 400 px)](https://user-images.githubusercontent.com/23433652/175810921-12bbb4b2-d7ad-46ee-80a3-dcf76316f35e.png)
 
 
 
