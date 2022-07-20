@@ -14,5 +14,3 @@
 
 - This showed my skills of Exploratory Data Analysis, Data Visualization, and Data Storytelling.
 
-![WhatsApp Usage](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Adobe%20Acrobat%20Usage%20(1).png)
-
