@@ -14,5 +14,5 @@
 
 - This showed my skills of Exploratory Data Analysis, Data Visualization, and Data Storytelling.
 
-![WhatsApp Usage](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/c5a377fd86a28c84d39d452c409184518eb8d09a/netflix_project_cover.png)https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/WhatsApp%20Usage.jpg
+![WhatsApp Usage](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/WhatsApp%20Usage.jpg)
 
