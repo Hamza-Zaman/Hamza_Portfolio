@@ -18,4 +18,4 @@
 
 
 ![dfdf](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg)
-![test image size]<img src="https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg" width="400" height="790">
+![test image size]<img src="https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg" width="640" height="420">
