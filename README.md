@@ -19,4 +19,4 @@
 
 ![dfdf](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/plots/Average%20Hours%20Spent%20On%20Social%20Media%20Apps.jpeg)
 
-![Screen Time Dashboard Cover](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/Screen%20Time%20Dashboard%20Cover.png")
+![Screen Time Dashboard Cover](https://github.com/Hamza-Zaman/Hamza_Portfolio/blob/main/my_screen_time_dashboard_analysis/screen_time_%20dashboard_%20cover.png)
